@@ -6,7 +6,7 @@ namespace Day_1___Lab_1
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello!");
                 Console.WriteLine("Welcome to the Grand Circus Room Detail Generator!");
                 Console.WriteLine("");
 
